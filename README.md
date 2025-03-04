@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not face any particular challenges with this assignment. It was good practice in learning how to use dictionaries and optionals in Swift programming.
 
 ## License
 
