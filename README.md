@@ -1,4 +1,4 @@
-# Project 2 - *Wordle 2 *
+# Project 2 - Wordle 2
 
 Submitted by: **Dishita Jhawar**
 
